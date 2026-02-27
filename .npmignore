@@ -1,0 +1,6 @@
+src/
+tsconfig.json
+.gitignore
+.github/
+logo.png
+*.tsbuildinfo

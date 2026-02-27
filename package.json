@@ -1,0 +1,49 @@
+{
+  "name": "timeforged-mcp",
+  "version": "0.1.0",
+  "description": "MCP server for TimeForged — open-source time tracking for developers",
+  "type": "module",
+  "bin": {
+    "timeforged-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc && chmod +x dist/index.js",
+    "prepare": "npm run build",
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [
+    "mcp",
+    "timeforged",
+    "time-tracking",
+    "model-context-protocol",
+    "claude",
+    "ai",
+    "developer-tools",
+    "wakatime-alternative"
+  ],
+  "author": "Blysspeak",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blysspeak/timeforged-mcp.git"
+  },
+  "homepage": "https://github.com/Blysspeak/timeforged-mcp",
+  "bugs": {
+    "url": "https://github.com/Blysspeak/timeforged-mcp/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
