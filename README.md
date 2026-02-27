@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="logo.png" width="180" alt="TimeForged" />
+  <img src="timeforged.png" width="180" alt="TimeForged" />
 </p>
 
-<h1 align="center">timeforged-mcp</h1>
+<h1 align="center">TimeForged MCP</h1>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/timeforged-mcp"><img src="https://img.shields.io/npm/v/timeforged-mcp.svg" alt="npm version" /></a>
