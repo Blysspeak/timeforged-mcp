@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="timeforged.png" width="180" alt="TimeForged" />
+  <img src="timeforged.png" width="280" alt="TimeForged" />
 </p>
-
-<h1 align="center">TimeForged MCP</h1>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/timeforged-mcp"><img src="https://img.shields.io/npm/v/timeforged-mcp.svg" alt="npm version" /></a>
-  <a href="https://github.com/Blysspeak/timeforged-mcp/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/timeforged-mcp.svg" alt="license" /></a>
+  <a href="https://github.com/Blysspeak/timeforged-mcp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Blysspeak/timeforged-mcp" alt="license" /></a>
   <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-compatible-blue" alt="MCP" /></a>
 </p>
 
