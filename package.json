@@ -1,6 +1,6 @@
 {
   "name": "timeforged-mcp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "MCP server for TimeForged — open-source time tracking for developers",
   "type": "module",
   "bin": {
